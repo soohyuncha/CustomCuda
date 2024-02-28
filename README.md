@@ -1,6 +1,6 @@
 # CustomCuda
 
-## 1. Debug logic in .cu file
+## 1. Design and debug logic in .cu file
 ```bash
 cd ./dev
 make
@@ -13,7 +13,7 @@ cd ./extension
 pip install .
 ```
 
-## 3. Check result in Python script
+## 3. Verify functionality with Python script
 ```bash
 python test_linear.py
 ```
