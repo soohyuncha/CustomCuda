@@ -1,0 +1,3 @@
+# ninja log v5
+2	14300	1709093069284472510	/home/ipa/soohyun/soohyun_practice/cuda_practice/CustomLinear/extension/build/temp.linux-x86_64-cpython-38/linear.o	8b467630e2ec37f7
+2	30468	1709093085460437465	/home/ipa/soohyun/soohyun_practice/cuda_practice/CustomLinear/extension/build/temp.linux-x86_64-cpython-38/linear_kernel.o	7c4e3804f6c673ab
