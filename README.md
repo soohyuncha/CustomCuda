@@ -12,6 +12,7 @@ make
 ## 2. Extend to Python package
 ```bash
 cd ./extension
+bash init.sh
 pip install .
 ```
 
