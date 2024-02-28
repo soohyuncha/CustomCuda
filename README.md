@@ -1,4 +1,6 @@
 # CustomCuda
+This is a brief guide to extend your custom cuda kernel to Python/Pytorch module.
+
 
 ## 1. Design and debug logic in .cu file
 ```bash
