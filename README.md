@@ -1,5 +1,6 @@
 # CustomCuda
 This is a brief guide on extending your custom cuda kernel to Python/Pytorch module.
+This repository illustrates with torch.nn.functional.linear(), one of the most frequently used Pytorch operators in ML.
 
 
 ## 1. Design and debug logic in .cu file
